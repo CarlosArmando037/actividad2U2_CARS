@@ -1,0 +1,14 @@
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\bin\Debug\EjersiciosArreglos2_CARS.exe.config
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\bin\Debug\EjersiciosArreglos2_CARS.exe
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\bin\Debug\EjersiciosArreglos2_CARS.pdb
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.csproj.AssemblyReference.cache
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.exe
+C:\Users\elram\source\repos\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.pdb
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.csproj.AssemblyReference.cache
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.exe
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\obj\Debug\EjersiciosArreglos2_CARS.pdb
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\bin\Debug\EjersiciosArreglos2_CARS.exe.config
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\bin\Debug\EjersiciosArreglos2_CARS.exe
+C:\Users\elram\Desktop\EjersiciosArreglos2_CARS\EjersiciosArreglos2_CARS\bin\Debug\EjersiciosArreglos2_CARS.pdb
